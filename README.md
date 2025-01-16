@@ -2,6 +2,9 @@
 
 Bem-vindo ao **Fome Zero Growth Dashboard**, uma ferramenta interativa desenvolvida para explorar e visualizar os dados de restaurantes do dataset Zomato. Este painel oferece insights detalhados sobre métricas globais e locais, ajudando na compreensão das tendências e padrões do setor de alimentos e bebidas.
 
+Acesse o dashboard online clicando no link abaixo:  
+👉 **[Zomato Growth Dashboard](https://alves-fome-zero.streamlit.app/)** 👈
+
 ---
 
 ## 🔍 Visão Geral do Projeto
